@@ -1,0 +1,19 @@
+.container {
+  margin: 0 auto;
+  padding: 100px;
+}
+.container * {
+  letter-spacing: -0.02rem;
+}
+.container h1 {
+  font-size: 1.85rem;
+  font-weight: 600;
+}
+.container P {
+  font-size: 1.5rem;
+  padding: 10px 0;
+}
+.container ul li {
+  font-size: 1.25rem;
+  line-height: 1.5;
+}/*# sourceMappingURL=scale.css.map */
